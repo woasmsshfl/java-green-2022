@@ -1,0 +1,11 @@
+{
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar"
+        ],
+        "exclude": [
+            "c:\\Users\\stuuu\\Downloads\\javaSDK-2.2.jar",
+            "c:\\Users\\stuuu\\Downloads\\java-sdk-2.2-http-cv52\\lib\\json-simple-1.1.1.jar"
+        ]
+    }
+}

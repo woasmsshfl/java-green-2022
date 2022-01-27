@@ -6,7 +6,7 @@ import lombok.Getter; // 자동으로 Getter를 만들어주는 lombok 라이브
 import lombok.Setter; // 자동으로 Setter를 만들어주는 lombok 라이브러리
 
 @AllArgsConstructor
-@Getter // lombok 라이브러리
+@Getter
 @Setter
 class 사자 {
     private String name;
